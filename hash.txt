@@ -1,0 +1,15 @@
+Recent studies show 45% of passwords are reused. Databases of hashes from various breaches are often distributed and reused as a password found at one site will likely be found on another.
+In our next demonstration, the following list of hashes and usernames were found after a Lego related fan site was compromised. 
+Fortunately the site only had 8 users, unfortunately one of the users was stsawareness@gmail.com.
+Find their hash below and crack it at https://crackstation.net/, then try to access their gmail (you can access gmail from the Escape Room lab notebook for the purposes of this exercise).
+0B20E35DE6FF81A819A7190DC4942C816525BDC915D11947D91E34CAA2469D86::narnia@gmail.com
+07862D2A64F3D41C460387BF78160C92886EE5621A1714DC5B3BD8D931D493A5::legomylego@yahoo.com
+1D92DAE504A70FBCAE6D3721A55D7EACAF94D3133EA5F0394B7D203D64841110::stillonaol@aol.com
+1DA9133AB9DBD11D2937EC8D312E1E2569857059E73CC72DF92E670928983AB5::fullmetaljacket@gmail.com
+A88A14ABDAB5DA4BD70E6960B01A6032C661502EA7650A2D853EBE0B3829C146::paulsimon@yahoo.com
+BF4FFB1487762665C9B10595337445BB6190D2C60B9DFE85CE68DEA4D1C4C274::masterlegobuilder@yahoo.com
+18024967C3375706D2AE3E71126B33A1C4D63980CF7B884D17475EF99CEE6149::stsawareness@gmail.com
+56093992BC45C1319389321E31880279663A03F5A18C32077BF77002076C1DE3::itwasntme@compuserve.com 
+Users that follow this practice run the risk of having their credentials 
+
+ Awareness <awareness@yourcompany.com>
